@@ -1,0 +1,21 @@
+# Site settings
+title: Erdi Tuncalp
+name: Erdi Tuncalp
+description: "Engineer"
+url: "www.erdituncalp.com"
+
+github_username:  erdituncalp
+twitter_username: etnclp
+linkedin_username: erdituncalp
+cv_url: "http://erdituncalp.com/docs/Resume.pdf"
+email: tuncalperdi@gmail.com
+
+avatar: yes
+avatar_img_path: "https://avatars.githubusercontent.com/u/38008348"
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
